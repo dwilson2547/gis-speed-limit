@@ -1,0 +1,9 @@
+target/
+*.class
+*.jar
+!*-jar-with-dependencies.jar
+.idea/
+*.iml
+.settings/
+.classpath
+.project
